@@ -1,0 +1,6 @@
+# Riverview Caledonia — robots.txt
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://riverviewcaledonia.ca/sitemap.xml

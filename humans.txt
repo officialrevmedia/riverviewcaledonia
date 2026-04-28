@@ -1,0 +1,9 @@
+/* TEAM */
+  Built by: Elite Developments
+  Location: Burlington, Ontario, Canada
+  Site:     https://elitedevelopments.com
+
+/* SITE */
+  Last update: April 2026
+  Project:     Riverview Caledonia — Phase 2
+  Standards:   HTML5, CSS3, modern JavaScript
